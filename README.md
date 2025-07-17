@@ -1,1 +1,7 @@
 # -One-Profile-CodingCompanion
+ DevelopedaMERNstackprojecttoanalysecodingplatformperformanceforspecificusers..
+ • Anintegratedplatformtoanalyzethecodingprofileofvariousplatformsbyplottinggraphs.
+ • ImplementedAPI fetchingtogatheranddisplayuser-specificcodingstatisticsandvisualizations.
+ •Rankingsystemisalsoprovidedbywhichuserscanseetheircurrentstandingsacrossglobe,country-wise.
+ • Implementedreal-timecommunicationfordoubtdiscussionamongtheactiveusers.
+ • Technologiesused:ReactJS, ,MaterialUI,Express.js,Node.js,MongoDB,WebScrapping
